@@ -3,9 +3,11 @@ Bash script with all the update commands for Ubuntu.
 
 This script will:
 
-1. Update the package list
-2. Upgrade new packages
-3. Autoremove old packages
+1. update the package list
+2. upgrade new packages
+3. autoremove old packages
+ 
+...without asking _yes/no_. ;-)
 
 ##Howto
 
@@ -19,4 +21,4 @@ __Run:__
 
 Open terminal where the file is and put: ```sudo ./upload-all.sh```
  
-Have fun! :-)
+__Have fun!__
