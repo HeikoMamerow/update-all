@@ -13,12 +13,12 @@ This script will:
 
 __Prepare:__
 
-1. Put the file _upload-all.sh_ on your Ubuntu desktop or server.
-2. Change owner user and group of the script to root: ```sudo chown root:root upload-all.sh```
-3. Make the file executable: ```sudo chmod +x upload-all.sh```
+1. Put the file _update-all.sh_ on your Ubuntu desktop or server.
+2. Change owner user and group of the script to root: ```sudo chown root:root update-all.sh```
+3. Make the file executable: ```sudo chmod +x update-all.sh```
 
 __Run:__
 
-Open terminal where the file is and put: ```sudo ./upload-all.sh```
+Open terminal where the file is and put: ```sudo ./update-all.sh```
  
 __Have fun!__
